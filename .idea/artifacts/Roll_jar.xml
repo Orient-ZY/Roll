@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Roll:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Roll_jar</output-path>
+    <root id="archive" name="Roll.jar">
+      <element id="module-output" name="Roll" />
+    </root>
+  </artifact>
+</component>
