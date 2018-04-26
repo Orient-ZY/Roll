@@ -8,6 +8,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Roll extends JFrame {
     private int frameHeight = 250;
@@ -15,7 +16,7 @@ public class Roll extends JFrame {
     private int btnHeight = 30;
     private int btnWidth = 80;
     private int index = 0;
-    private ArrayList<String> names = new ArrayList<String>();
+    private List<String> names = new ArrayList<String>();
     private JLabel textLab = null;
     private Timer timer = null;
 
